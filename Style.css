@@ -1,0 +1,141 @@
+.card {
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2) ;
+	max-width: 300px ;
+	margin: auto;
+	text-align: center;
+	font-family: arial;
+	margin-bottom: 20px;
+}
+
+.price {
+	color: grey;
+	font-size: 22px;
+}
+
+.card button {
+	border: none;
+	outline: 0;
+	padding: 15px;
+	color: white;
+	background-color: #000;
+	text-align: center;
+	cursor: pointer;
+	width: 100%;
+	font-size: 18px;
+}
+
+.card button:hover {
+	opacity: 0.7;
+	color: yellow;
+}
+
+body {
+	background-image: url("Martin_Luther_King_press_conference_01269u_edit.jpg");
+	background-repeat: no-repeat;
+	background-size: 105%;
+	background-position:;
+	background-color: black;
+	margin-bottom: 300px;
+	}
+
+h2 {
+	text-align: center;
+	color: whitesmoke;
+	text-shadow: 2px 2px black;
+  font-family: "Spectral SC", serif;
+  font-weight: 400;
+  font-style: normal;
+  padding: 20px;
+}
+
+h3 {
+	text-align: center;
+	color: yellow;
+	text-shadow: 2px 2px black;
+  font-family: "Spectral SC", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h4 {
+	text-align: center;
+	color: yellow;
+	text-shadow: 2px 2px black;
+  font-family: "Spectral SC", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.desription {
+	text-align: center;
+	font-size: 20px;
+	color: grey;
+	padding-bottom: 30px;
+}
+
+p {
+	text-align: center;
+	font-size: 20px;
+}
+
+.movement {
+	text-align: center;
+	font-size: 20px;
+	color: ghostwhite;
+}
+
+.navbar-brand {
+	font-family: "Spectral SC", serif;font-family: "Spectral SC", serif;
+}
+
+
+button {
+	color: whitesmoke;
+	background-color: darkred;
+	border-radius: 8px;
+	border: none;
+	position: center;
+	padding: 15px 32px;
+	text-align: center;
+}
+
+button:hover {
+	opacity: 0.7;
+	color: #3d8c40;
+}
+
+.contact-button {
+	display: flex;
+	justify-content: center;
+	margin: 25px;
+}
+
+.Gapeliilogo {
+	display: flex;
+	justify-content: center;
+	margin: 40px;
+}
+
+img {
+	border-radius: px;
+}
+
+.container-fluid-2 {
+	background-color: black;
+	height: 200px;
+	margin-bottom: 100px;
+	padding-bottom: 30px;
+	opacity: ;
+	background: rgba(0, 0, 0, 1.0);
+	}
+
+.announce {
+	background-color: #3d8c40;
+	padding: 5px;
+	color: white;
+}
+
+.Legendlogo {
+	display: flex;
+	justify-content: center;
+}
